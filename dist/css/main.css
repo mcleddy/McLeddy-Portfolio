@@ -179,7 +179,8 @@
     text-transform: uppercase; }
   
   img {
-    width: 50%; 
+    width: 75%; 
+    border-right: 6px solid #778e9e;;
 }
   
   #logo {
